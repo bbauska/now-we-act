@@ -1,5 +1,7 @@
 ## Now We Act podcast by Tim Snyder, Dr of History
 
+### Now We Act (with Rep. Seth Magaziner) (36:38)  - https://youtu.be/GJbP7ki9sJo
+
 ### Now We Act (with Sen. Chris Van Hollen) (20:55) Maryland - https://youtu.be/7kvYxsRiJmE
 
 ### Now We Act (with Sen. Tina Smith) (36:17) Minnesota - https://youtu.be/3aXGu5MaB-s
@@ -16,4 +18,5 @@
 
 ### Now We Act (with Sen. Maggie Hassan) (21:47) New Hampshire - https://youtu.be/P8I-PgsT-HM
 
+### Now We Act (with Rep. Madeleine Dean) (30:56) Pennsylvania - https://youtu.be/yBpuN2bt5kM
 
