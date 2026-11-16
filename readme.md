@@ -22,4 +22,5 @@
 
 ## <a href="https://youtu.be/FEVDXXJ9qos">Now We Act (with Sen. Tammy Baldwin)</a> (23:05) Winconsin Senator
 
+## <a href="">Now We Act (with Rep. Sarah McBride)</a> (29:09) Delaware Representative 1st District
 
