@@ -20,6 +20,6 @@
 
 ### Now We Act (with Rep. Madeleine Dean) (30:56) Pennsylvania Representative 4th District - https://youtu.be/yBpuN2bt5kM
 
-### Now We Act (with Sen. Tammy Baldwin) (23:05) Winconsin Senator - https://youtu.be/FEVDXXJ9qos
+### <a href="https://youtu.be/FEVDXXJ9qos">Now We Act (with Sen. Tammy Baldwin)</a> (23:05) Winconsin Senator
 
 
