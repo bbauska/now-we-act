@@ -24,3 +24,6 @@
 
 ## <a href="https://youtu.be/6tGG7rubEU8">Now We Act (with Rep. Sarah McBride)</a> (29:09) Delaware Representative 1st District
 
+## <a href="https://youtu.be/gRHxu4susHk">Now We Act (with Sen. Sheldon Whitehouse)</a> (26:56) Rhode Island Senator
+
+
