@@ -65,7 +65,7 @@ p {
 .book-wrapper {
   user-select: none;
 }
-.page-num-1 .pages-background {
+.page-num-01 .pages-background {
   background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), 
     url(../images/Vintage_Floral.webp?raw=true);
 /*    url'(https://openclipart.org/image/2400px/svg_to_png/242093/Vintage-Floral-Texture-Background.png); */
