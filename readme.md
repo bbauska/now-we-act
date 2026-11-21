@@ -42,13 +42,13 @@
 ## <a href="https://youtu.be/gRHxu4susHk">14. Now We Act (with Sen. Sheldon Whitehouse)</a> (26:56) Rhode Island Senator
 <!-- recorded 11/17/2026 -->
 
-## <a href="https://youtu.be/r-8kKj5K5TQ">15. Now We Act (with Rep. Brad Lander)</a> (34:11) New York Representative 10th District
+## <a href="https://youtu.be/r-8kKj5K5TQ">15. Now We Act</a> (with <a href="">Rep. Brad Lander</a>) (34:11) New York Representative 10th District
 <!-- recorded 11/17/2026 -->
 
-## <a href="">16. Now We Act (with <a href="https://www.youtube.com/c/CongressmanRaja">Rep. Raja Krishnamoorthi</a>)</a> (37:12) Illinois Rpresentative 8th District
+## <a href="">16. Now We Act</a> (with <a href="https://www.youtube.com/c/CongressmanRaja">Rep. Raja Krishnamoorthi</a>) (37:12) Illinois Rpresentative 8th District
 <!-- recorded 11/17/2026 -->
 
-## <a href="">17. Now We Act (with Senator  Sen. Ruben Gallego)</a> (23:52) Arizona Senator
+## <a href="">17. Now We Act</a> (with <a href="">Sen. Ruben Gallego</a>) (23:52) Arizona Senator
 <!-- recorded 11/19/2026 -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
